@@ -51,8 +51,6 @@ Ensure you have the following installed:
    yarn install
    ```
 
-3. Configure your API endpoint in the appropriate configuration file (e.g., `.env` or a config file).
-
 ### Usage
 
 1. Start the development server:
