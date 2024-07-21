@@ -65,13 +65,6 @@ Ensure you have the following installed:
 
 3. The table on the page will be populated with data fetched from the API.
 
-### API Integration
-
-- The application fetches data from the following API endpoint: `[API Endpoint URL]`.
-- Ensure that the API returns data in the expected format.
-- [Include any authentication details or special headers required by the API.]
-
-
 
 ### License
 
